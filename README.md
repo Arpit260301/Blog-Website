@@ -15,6 +15,6 @@ Database:- MongoDB
 
 2] Install all the Node packages.
 
-3] Add MongoDB in our Pc or Desktop.
+3] Add MongoDB in your system for using database.
 
 ### Thanks for Visiting my Repositary!!
